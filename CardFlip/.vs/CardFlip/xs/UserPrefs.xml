@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F90696EF-AEF3-4FE6-8A91-0B78E2DF8B42}|">
+  <MonoDevelop.Ide.ItemProperties.CardFlip FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardFlip/Default.aspx">
+    <Files>
+      <File FileName="CardFlip/Default.aspx" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CardFlip" expanded="True">
+            <Node name="CardFlip" expanded="True">
+              <Node name="Controllers" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CardFlip" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CardFlip.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
