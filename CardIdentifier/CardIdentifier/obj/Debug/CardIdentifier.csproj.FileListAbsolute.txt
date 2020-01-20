@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe.config
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.pdb
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.CardIdentifier.resources
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Properties.Resources.resources
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.exe
+\\Mac\Home\Desktop\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.pdb
